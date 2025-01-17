@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= "welcome to se lab external 2025" %></h2>
+<h2><%= "welcome to se lab external" %></h2>
 </body>
 </html>
